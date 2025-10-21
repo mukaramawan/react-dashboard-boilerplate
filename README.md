@@ -47,7 +47,7 @@ A modern, feature-rich React dashboard boilerplate built with Vite, Tailwind CSS
 
 ### Authentication Pages
 **Sign In**
-![Sign In Page](./screenshots/signin.png)
+![Sign In Page](./screenshots/signin.png.png)
 
 **Sign Up**
 ![Sign Up Page](./screenshots/signup.png)
